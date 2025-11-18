@@ -1,4 +1,4 @@
-nombre= "subaru xd"
+nombre= "subaruxd"
 apelldo="natsuki"
 
 saludo= "hola"+ nombre + "" + apelldo + "¿como estas?"
